@@ -72,18 +72,6 @@ export function ContactPage() {
       address: 'Efab Mall Extension, C17\nGarki\nAbuja FCT, Nigeria',
       phone: '+234 806 140 8455',
       email: 'royalsheriumintlltd@gmail.com'
-    },
-    {
-      name: 'Lagos Office',
-      address: 'Efab Mall Extension, C17\nGarki\nAbuja FCT, Nigeria',
-      phone: '+234 805 123 4567',
-      email: 'lagos@royalsherium.com'
-    },
-    {
-      name: 'Port Harcourt Office',
-      address: 'Efab Mall Extension, C17\nGarki\nAbuja FCT, Nigeria',
-      phone: '+234 807 890 1234',
-      email: 'portharcourt@royalsherium.com'
     }
   ];
 
