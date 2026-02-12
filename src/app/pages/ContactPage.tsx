@@ -70,7 +70,7 @@ export function ContactPage() {
     {
       name: 'Headquarters - Abuja',
       address: 'Plot 123, Cadastral Zone\nMaitama District\nAbuja FCT, Nigeria',
-      phone: '+234 803 456 7890',
+      phone: '+234 806 140 8455',
       email: 'royalsheriumintlltd@gmail.com'
     },
     {
@@ -387,13 +387,13 @@ export function ContactPage() {
               </p>
               <div className="flex gap-3">
                 <a
-                  href="tel:+2348034567890"
+                  href="tel:+2348061408455"
                   className="flex-1 text-center py-3 px-6 bg-[#C9A860] hover:bg-[#B8975A] transition-colors"
                 >
                   Call Emergency Line
                 </a>
                 <a
-                  href="https://wa.me/2348034567890?text=Emergency%20Support%20Needed"
+                  href="https://wa.me/2348061408455?text=Emergency%20Support%20Needed"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex-1 text-center py-3 px-6 bg-green-600 hover:bg-green-700 transition-colors flex items-center justify-center gap-2"

@@ -65,7 +65,7 @@ export const agents: Agent[] = [
     title: 'CEO & Principal Consultant - All Sectors',
     image: '/src/assets/0c18fc1e706c9d509b2b4e0a9c3ecca88e090e80.png',
     email: 'royalsheriumintlltd@gmail.com',
-    phone: '+234 803 456 7890',
+    phone: '+234 806 140 8455',
     languages: ['English', 'Hausa', 'Yoruba'],
     certifications: ['MBA Business Administration', 'Oil & Gas Management Specialist', 'Real Estate Investment Professional', 'DPR Certified'],
     bio: 'Prince Isah Umar is the visionary founder and CEO of Royal Sherium International Ltd. With over 20 years of experience in both real estate development and oil & gas sectors, he has built the company into a leading force in Nigeria\'s commercial landscape. As the principal consultant for all sectors, Prince Isah Umar personally oversees both the real estate division and the oil & gas division, ensuring the highest standards of quality, integrity, and customer satisfaction. His strategic leadership, deep industry knowledge, and hands-on approach have driven exceptional growth and client satisfaction across all our business operations.',

@@ -69,11 +69,11 @@ export function Navigation() {
               <span>Search</span>
             </button>
             <a 
-              href="tel:+2348034567890"
+              href="tel:+2348061408455"
               className="hidden md:flex items-center space-x-2 px-4 py-2 text-sm text-[#1A1A1A] hover:text-[#C9A860] transition-colors"
             >
               <Phone className="w-4 h-4" />
-              <span className="hidden xl:inline">+234 803 456 7890</span>
+              <span className="hidden xl:inline">+234 806 140 8455</span>
             </a>
             
             {/* Mobile Menu Button */}

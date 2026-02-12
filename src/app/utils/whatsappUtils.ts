@@ -1,6 +1,6 @@
 // WhatsApp Integration Utilities
 // Main business WhatsApp number (Nigeria +234)
-export const WHATSAPP_BUSINESS_NUMBER = '+2348034567890'; // +234 803 456 7890
+export const WHATSAPP_BUSINESS_NUMBER = '+2348061408455'; // +234 806 140 8455
 
 /**
  * Generate WhatsApp message link
