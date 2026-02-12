@@ -69,19 +69,19 @@ export function ContactPage() {
   const offices = [
     {
       name: 'Headquarters - Abuja',
-      address: 'Plot 123, Cadastral Zone\nMaitama District\nAbuja FCT, Nigeria',
+      address: 'Efab Mall Extension, C17\nGarki\nAbuja FCT, Nigeria',
       phone: '+234 806 140 8455',
       email: 'royalsheriumintlltd@gmail.com'
     },
     {
       name: 'Lagos Office',
-      address: 'Victoria Island\nLagos State\nNigeria',
+      address: 'Efab Mall Extension, C17\nGarki\nAbuja FCT, Nigeria',
       phone: '+234 805 123 4567',
       email: 'lagos@royalsherium.com'
     },
     {
       name: 'Port Harcourt Office',
-      address: 'GRA Phase 2\nPort Harcourt\nRivers State, Nigeria',
+      address: 'Efab Mall Extension, C17\nGarki\nAbuja FCT, Nigeria',
       phone: '+234 807 890 1234',
       email: 'portharcourt@royalsherium.com'
     }

@@ -63,7 +63,7 @@ export const agents: Agent[] = [
     id: 'agent-1',
     name: 'Prince Isah Umar',
     title: 'CEO & Principal Consultant - All Sectors',
-    image: '/src/assets/0c18fc1e706c9d509b2b4e0a9c3ecca88e090e80.png',
+    image: '/ceo-photo.png',
     email: 'royalsheriumintlltd@gmail.com',
     phone: '+234 806 140 8455',
     languages: ['English', 'Hausa', 'Yoruba'],
